@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Stephen",
+      "last_name": "Clark",
+      "departmentId": 1,
+      "computerId": 1
+    },
+    {
+      "id": 2,
+      "first_name": "Clark",
+      "last_name": "Kent",
+      "departmentId": 2,
+      "computerId": 2
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "make": "Dell",
+      "model": "XPS13"
+    },
+    {
+      "id": 2,
+      "make": "MacBook",
+      "model": "Pro 2017"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "name": "Learning"
+    },
+    {
+      "id": 2,
+      "name": "Journalism"
+    }
+  ]
+}
